@@ -14,3 +14,7 @@ there will be bugs probably report them to me on discord @chaowoses
 3. Name the repository yourgithubusername.github.io
 4. Follow [these instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) to deploy your own version of the site
 5. When I update my repository, there will be an option to merge original. Click this and follow the instructions to update your website.
+  
+## More Info  
+More links (not hosted by me) can be viewed [here](https://github.com/Chaos142/Site/forks)  
+link submission form coming soon maybe idk  
