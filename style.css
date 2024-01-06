@@ -1,0 +1,28 @@
+body {
+background-color: #1e1e1e;
+}
+
+.maintext {
+    color: white;
+    font-family: 'Trebuchet MS';
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.title {
+    font-size: 300%;
+}
+
+.subtitle {
+    font-size: 200%;
+}
+
+a {
+    color: white;
+    font-size: 150%;
+}

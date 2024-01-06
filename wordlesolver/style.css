@@ -1,0 +1,92 @@
+body {
+    background-color: #1e1e1e;
+}
+
+.title {
+    color: white;
+    font-family: 'Trebuchet MS';
+    font-size: 300%;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    color: white;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+    font-size: 200%;
+}
+
+.input-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    margin-bottom: 10px;
+    border: none;
+    padding: 10px;
+    width: 75%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-family: 'Trebuchet MS';
+}
+
+button {
+    padding: 5px 10px;
+}
+
+input {
+    background-color: #444653;
+    color: white;
+}
+
+input:focus {
+    outline: none;
+}
+
+.subtitle a {
+    color: inherit;
+    text-decoration: underline;
+}
+
+button {
+    padding: 12px 20px;
+    border: none;
+    border-radius: 10px;
+    font-family: 'Trebuchet MS';
+    background-color: #444653;
+    color: white;
+    transition: transform 0.3s ease-in-out;
+}
+
+button:hover {
+    opacity: 0.8;
+    transform: scale(1.05);
+}
+
+#decrypted_output {
+    color: white;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    display: block;
+    font-size: 200%;
+    margin-top: 10px;
+    word-wrap: break-word;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.button-container button {
+    margin: 0 10px;
+}

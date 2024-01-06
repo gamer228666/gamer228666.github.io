@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Custom Wordle Solver :D</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 class="title">Custom Wordle Solver</h1>
+    <label class="subtitle">created by <a href="https://github.com/chaos142" target="_blank">chaos</a></label>
+    
+    <div class="input-container">
+        <input type="text" id="url_input" placeholder="Enter unsolved URL here!" style="font-weight: bold; text-align: center;">
+        <div class="button-container">
+            <button onclick="clearInput('url_input', 'decrypted_output')">CLEAR</button>
+            <button onclick="decryptUrl()">SOLVE</button>
+        </div>
+    </div>
+    <p id="decrypted_output" class="subtitle"></p>
+    
+<div class="input-container">
+        <input type="text" id="word_input" placeholder="Enter word here!" style="font-weight: bold; text-align: center;">
+        <div class="button-container">
+            <button onclick="clearInput('word_input', 'link_output')">CLEAR</button>
+            <button onclick="makeImpossible()">MAKE IMPOSSIBLE!</button>
+            <button onclick="copyLink()">COPY</button>
+        </div>
+    </div>
+    <a id="link_output" class="subtitle" href=""></a>
+    
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+body {
+  background-color: #6D8492;
+  font-family: Handlee;
+  color: #ac9590
+}
+
+.alex {
+  border-radius: 10%;
+}
+
+.mainStats {
+  margin: 0px;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+.heading {
+  text-decoration: underline;
+}
+
+.shopInfo {
+  margin: 0px;
+}
+
+button {
+  border: none;
+  border-radius: 10px;
+  width: 50%;
+  font-size: 150%;
+  font-family: Handlee;
+  background-color: #457d2f;
+  margin-top: 5px;
+  overflow-x: hidden;
+}
+
+button:hover {
+  background-color: #3a6629;
+  cursor: pointer;
+}
+
+.preenakaInShop {
+  margin-bottom: 10px;
+}

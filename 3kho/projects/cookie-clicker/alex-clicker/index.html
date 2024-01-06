@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>alex clicker</title>
+  <link rel="icon" type="image/x-icon" href="imgs/lowquality.png">
+  <link href='https://fonts.googleapis.com/css?family=Handlee' rel='stylesheet'>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+  <div class="column" align=center>
+    <h1 class="heading">ITEM SHOP</h1>
+
+    <div class="preenakaInShop">
+      <h2 id="preeAmount" class="shopInfo">preenakas: 0, power: 1
+        </h1>
+        <button onclick="buyPreenaka()" id="buyPreenakas" class="shopButton">preenaka - 10 rozsas </button>
+        <button onclick="upgradePreenaka()" id="upgradePreenakas" class="shopButton">upgrade preenaka - 100 rozsas
+        </button>
+    </div>
+
+  </div>
+
+  <div class="column" align=center>
+    <h1 id="clickAmount" class="mainStats">rozsas: 0</h1>
+    <h1 id="passivePerSecondAmount" class="mainStats">rozsas per second: 0</h1>
+    <img src="imgs/lowquality.png" class="alex" id="mainImage" onclick="onAlexClicked()">
+  </div>
+
+  <div class="column" align=center>
+    <h1 class="heading">UPGRADE SHOP</h1>
+  </div>
+
+  <script src="scripts/clickAlex.js"></script>
+</body>
+
+</html>
