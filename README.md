@@ -1,3 +1,4 @@
+
 # chaos142.github.io
 
 this is the best website on the internet no cap
@@ -16,5 +17,5 @@ there will be bugs probably report them to me on discord @chaowoses
 5. When I update my repository, there will be an option to merge original. Click this and follow the instructions to update your website.
   
 ## More Info  
-More links (not hosted by me) can be viewed [here](https://github.com/Chaos142/Site/forks)  
-link submission form coming soon maybe idk  
+More links (not hosted by me) can be viewed [here] (https://github.com/Chaos142/Site/forks). Be wary that some of these sites may contain malware or phishing, and can be modified by anyone. Officially verified links can be found here:
+- https://chaos142backup.netlify.app - Blocked, does not update. This link will likely be taken down in the near future.
