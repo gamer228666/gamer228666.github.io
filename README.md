@@ -18,4 +18,4 @@ there will be bugs probably report them to me on discord @chaowoses
   
 ## More Info  
 More links (not hosted by me) can be viewed [here](https://github.com/Chaos142/Site/forks). Be wary that some of these sites may contain malware or phishing, and can be modified by anyone. Officially verified links can be found here:
-- https://chaos142backup.netlify.app - Blocked, does not update. This link will likely be taken down in the near future.
+- https://technonerd7206.github.io
