@@ -1641,6 +1641,7 @@ Game.Launch=function()
 			if (name.indexOf('saysopensesame',name.length-('saysopensesame').length)>0 && !Game.sesame) Game.OpenSesame();
 			if (name=='dumpling') window.open("https://www.google.com/search?q=burly black men");
 			if (name=='jewboi123') window.open("/3kho/projects/cookie-clicker/alex-clicker/index.html");
+			if (name=='Walter Click') window.open("https://pornhub.com");
 			Game.recalculateGains=1;
 		}
 		Game.bakeryNamePrompt=function()
