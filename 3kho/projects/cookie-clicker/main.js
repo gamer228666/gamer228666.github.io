@@ -1639,7 +1639,7 @@ Game.Launch=function()
 			name=Game.bakeryName.toLowerCase();
 			if (name=='orteil') Game.Win('God complex');
 			if (name.indexOf('saysopensesame',name.length-('saysopensesame').length)>0 && !Game.sesame) Game.OpenSesame();
-			if (name=='dunpling') window.open("https://www.google.com/search?q=naked black men");
+			if (name=='dumpling') window.open("https://www.google.com/search?q=naked black men");
 			if (name=='jewboi123') window.open("/3kho/projects/cookie-clicker/alex-clicker/index.html");
             if (name=='jasonpan') window.open("https://my.clevelandclinic.org/health/procedures/circumcision");
 			if (name=='Walter Click') window.open("https://pornhub.com");
